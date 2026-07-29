@@ -103,12 +103,6 @@ Both checks passed -> ns-3.48 installed successfully, wifi module ready.
 
 Put your own scripts in the `scratch/` folder; do not edit `src/` directly.
 
-## Next Steps
-
-- [ ] Follow the official ns-3 Tutorial (first.cc ~ fifth.cc)
-- [ ] Study Wi-Fi examples in `examples/wireless/`
-- [ ] Set up VS Code + WSL
-- [ ] Confirm which ns-3 version the lab's UORA project uses
 
 
 
